@@ -1,0 +1,324 @@
+Producers = 2
+Consumers = 2
+
+***Global Statistics***
+
+Store-wide Total Sales:
+
+Store 1 Total Sales: $0
+Store 2 Total Sales: $0
+Store 3 Total Sales: $282783
+Store 4 Total Sales: $270688
+Store 5 Total Sales: $0
+Store 6 Total Sales: $0
+Store 7 Total Sales: $0
+Store 8 Total Sales: $0
+Store 9 Total Sales: $0
+Store 10 Total Sales: $0
+
+Store-wide Total Sales:
+
+3/6/16 Total Sales: $60760
+12/7/16 Total Sales: $48295
+12/19/16 Total Sales: $37638
+10/23/16 Total Sales: $32676
+12/20/16 Total Sales: $44670
+8/25/16 Total Sales: $47832
+12/22/16 Total Sales: $60516
+3/4/16 Total Sales: $42566
+10/15/16 Total Sales: $37992
+10/2/16 Total Sales: $34426
+6/29/16 Total Sales: $41838
+12/15/16 Total Sales: $64262
+Aggregate Sales: $553471
+Total Time for simulation: 1.68091e+09 seconds
+
+
+Producers = 2
+Consumers = 5
+
+***Global Statistics***
+
+Store-wide Total Sales:
+
+Store 1 Total Sales: $0
+Store 2 Total Sales: $0
+Store 3 Total Sales: $107818
+Store 4 Total Sales: $104356
+Store 5 Total Sales: $119788
+Store 6 Total Sales: $99847
+Store 7 Total Sales: $121509
+Store 8 Total Sales: $0
+Store 9 Total Sales: $0
+Store 10 Total Sales: $0
+
+Store-wide Total Sales:
+
+3/6/16 Total Sales: $60760
+12/7/16 Total Sales: $48142
+12/19/16 Total Sales: $37638
+10/23/16 Total Sales: $32676
+12/20/16 Total Sales: $44670
+8/25/16 Total Sales: $47832
+12/22/16 Total Sales: $60516
+3/4/16 Total Sales: $42566
+10/15/16 Total Sales: $37992
+10/2/16 Total Sales: $34426
+6/29/16 Total Sales: $41838
+12/15/16 Total Sales: $64262
+Aggregate Sales: $553318
+Total Time for simulation: 1.68091e+09 seconds
+
+
+Producers = 2
+Consumers = 10
+
+***Global Statistics***
+
+Store-wide Total Sales:
+
+Store 1 Total Sales: $0
+Store 2 Total Sales: $0
+Store 3 Total Sales: $55855
+Store 4 Total Sales: $68303
+Store 5 Total Sales: $49607
+Store 6 Total Sales: $48041
+Store 7 Total Sales: $38726
+Store 8 Total Sales: $66677
+Store 9 Total Sales: $51101
+Store 10 Total Sales: $54309
+
+Store-wide Total Sales:
+
+3/6/16 Total Sales: $60760
+12/7/16 Total Sales: $48142
+12/19/16 Total Sales: $37638
+10/23/16 Total Sales: $32676
+12/20/16 Total Sales: $44670
+8/25/16 Total Sales: $47832
+12/22/16 Total Sales: $60516
+3/4/16 Total Sales: $42566
+10/15/16 Total Sales: $37992
+10/2/16 Total Sales: $34426
+6/29/16 Total Sales: $41838
+12/15/16 Total Sales: $64262
+Aggregate Sales: $553318
+Total Time for simulation: 1.68091e+09 seconds
+
+
+Producers = 5
+Consumers = 2
+
+***Global Statistics***
+
+Store-wide Total Sales:
+
+Store 1 Total Sales: $0
+Store 2 Total Sales: $0
+Store 3 Total Sales: $238434
+Store 4 Total Sales: $307919
+Store 5 Total Sales: $0
+Store 6 Total Sales: $0
+Store 7 Total Sales: $0
+Store 8 Total Sales: $0
+Store 9 Total Sales: $0
+Store 10 Total Sales: $0
+
+Store-wide Total Sales:
+
+3/6/16 Total Sales: $64465
+12/7/16 Total Sales: $47310
+12/19/16 Total Sales: $27485
+10/23/16 Total Sales: $36960
+12/20/16 Total Sales: $36658
+8/25/16 Total Sales: $63535
+12/22/16 Total Sales: $46345
+3/4/16 Total Sales: $41860
+10/15/16 Total Sales: $44215
+10/2/16 Total Sales: $28925
+6/29/16 Total Sales: $49230
+12/15/16 Total Sales: $59365
+Aggregate Sales: $546353
+Total Time for simulation: 1.68091e+09 seconds
+
+
+Producers = 5
+Consumers = 5
+
+***Global Statistics***
+
+Store-wide Total Sales:
+
+Store 1 Total Sales: $0
+Store 2 Total Sales: $0
+Store 3 Total Sales: $100623
+Store 4 Total Sales: $100895
+Store 5 Total Sales: $128323
+Store 6 Total Sales: $98960
+Store 7 Total Sales: $116631
+Store 8 Total Sales: $0
+Store 9 Total Sales: $0
+Store 10 Total Sales: $0
+
+Store-wide Total Sales:
+
+3/6/16 Total Sales: $64465
+12/7/16 Total Sales: $47310
+12/19/16 Total Sales: $27485
+10/23/16 Total Sales: $36960
+12/20/16 Total Sales: $35737
+8/25/16 Total Sales: $63535
+12/22/16 Total Sales: $46345
+3/4/16 Total Sales: $41860
+10/15/16 Total Sales: $44215
+10/2/16 Total Sales: $28925
+6/29/16 Total Sales: $49230
+12/15/16 Total Sales: $59365
+Aggregate Sales: $545432
+Total Time for simulation: 1.68091e+09 seconds
+
+
+Producers = 5
+Consumers = 10
+
+***Global Statistics***
+
+Store-wide Total Sales:
+
+Store 1 Total Sales: $0
+Store 2 Total Sales: $0
+Store 3 Total Sales: $56088
+Store 4 Total Sales: $66155
+Store 5 Total Sales: $51295
+Store 6 Total Sales: $59734
+Store 7 Total Sales: $55518
+Store 8 Total Sales: $51982
+Store 9 Total Sales: $62369
+Store 10 Total Sales: $49961
+
+Store-wide Total Sales:
+
+3/6/16 Total Sales: $64465
+12/7/16 Total Sales: $47310
+12/19/16 Total Sales: $27485
+10/23/16 Total Sales: $36960
+12/20/16 Total Sales: $38500
+8/25/16 Total Sales: $63535
+12/22/16 Total Sales: $46345
+3/4/16 Total Sales: $41860
+10/15/16 Total Sales: $44215
+10/2/16 Total Sales: $28925
+6/29/16 Total Sales: $49230
+12/15/16 Total Sales: $59365
+Aggregate Sales: $548195
+Total Time for simulation: 1.68091e+09 seconds
+
+
+Producers = 10
+Consumers = 2
+
+***Global Statistics***
+
+Store-wide Total Sales:
+
+Store 1 Total Sales: $0
+Store 2 Total Sales: $0
+Store 3 Total Sales: $240124
+Store 4 Total Sales: $291492
+Store 5 Total Sales: $0
+Store 6 Total Sales: $0
+Store 7 Total Sales: $0
+Store 8 Total Sales: $0
+Store 9 Total Sales: $0
+Store 10 Total Sales: $0
+
+Store-wide Total Sales:
+
+3/6/16 Total Sales: $58640
+12/7/16 Total Sales: $26260
+12/19/16 Total Sales: $40590
+10/23/16 Total Sales: $18900
+12/20/16 Total Sales: $17396
+8/25/16 Total Sales: $43110
+12/22/16 Total Sales: $52780
+3/4/16 Total Sales: $50360
+10/15/16 Total Sales: $60450
+10/2/16 Total Sales: $44750
+6/29/16 Total Sales: $55400
+12/15/16 Total Sales: $62980
+Aggregate Sales: $531616
+Total Time for simulation: 1.68091e+09 seconds
+
+
+Producers = 10
+Consumers = 5
+
+***Global Statistics***
+
+Store-wide Total Sales:
+
+Store 1 Total Sales: $0
+Store 2 Total Sales: $0
+Store 3 Total Sales: $129159
+Store 4 Total Sales: $105980
+Store 5 Total Sales: $102020
+Store 6 Total Sales: $91448
+Store 7 Total Sales: $102835
+Store 8 Total Sales: $0
+Store 9 Total Sales: $0
+Store 10 Total Sales: $0
+
+Store-wide Total Sales:
+
+3/6/16 Total Sales: $58640
+12/7/16 Total Sales: $26260
+12/19/16 Total Sales: $40590
+10/23/16 Total Sales: $18900
+12/20/16 Total Sales: $17222
+8/25/16 Total Sales: $43110
+12/22/16 Total Sales: $52780
+3/4/16 Total Sales: $50360
+10/15/16 Total Sales: $60450
+10/2/16 Total Sales: $44750
+6/29/16 Total Sales: $55400
+12/15/16 Total Sales: $62980
+Aggregate Sales: $531442
+Total Time for simulation: 1.68091e+09 seconds
+
+
+Producers = 10
+Consumers = 10
+
+***Global Statistics***
+
+Store-wide Total Sales:
+
+Store 1 Total Sales: $0
+Store 2 Total Sales: $0
+Store 3 Total Sales: $52690
+Store 4 Total Sales: $40884
+Store 5 Total Sales: $42524
+Store 6 Total Sales: $74117
+Store 7 Total Sales: $58322
+Store 8 Total Sales: $57659
+Store 9 Total Sales: $54411
+Store 10 Total Sales: $42057
+
+Store-wide Total Sales:
+
+3/6/16 Total Sales: $58640
+12/7/16 Total Sales: $26260
+12/19/16 Total Sales: $40590
+10/23/16 Total Sales: $18900
+12/20/16 Total Sales: $17222
+8/25/16 Total Sales: $43110
+12/22/16 Total Sales: $52780
+3/4/16 Total Sales: $50360
+10/15/16 Total Sales: $60450
+10/2/16 Total Sales: $44750
+6/29/16 Total Sales: $55400
+12/15/16 Total Sales: $62980
+Aggregate Sales: $531442
+Total Time for simulation: 1.68091e+09 seconds
+
+

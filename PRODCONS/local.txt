@@ -1,0 +1,819 @@
+Producers = 2
+Consumers = 2
+
+Consumer 4 Statistics:
+Store 4 Total Spent: $270688
+12/12/16 Total Sales: $32061
+12/12/16 Total Sales: $23714
+12/12/16 Total Sales: $15739
+12/12/16 Total Sales: $8605
+12/12/16 Total Sales: $28181
+12/12/16 Total Sales: $25433
+12/12/16 Total Sales: $33260
+12/12/16 Total Sales: $19037
+12/12/16 Total Sales: $17070
+12/12/16 Total Sales: $21008
+12/12/16 Total Sales: $17123
+12/12/16 Total Sales: $29457
+
+
+Consumer 3 Statistics:
+Store 3 Total Spent: $282783
+12/12/16 Total Sales: $28699
+12/12/16 Total Sales: $24581
+12/12/16 Total Sales: $21899
+12/12/16 Total Sales: $24071
+12/12/16 Total Sales: $16489
+12/12/16 Total Sales: $22399
+12/12/16 Total Sales: $27256
+12/12/16 Total Sales: $23529
+12/12/16 Total Sales: $20922
+12/12/16 Total Sales: $13418
+12/12/16 Total Sales: $24715
+12/12/16 Total Sales: $34805
+
+Producers = 2
+Consumers = 5
+
+Consumer 4 Statistics:
+Store 4 Total Spent: $104356
+12/12/16 Total Sales: $12826
+12/12/16 Total Sales: $6831
+12/12/16 Total Sales: $4116
+12/12/16 Total Sales: $7925
+12/12/16 Total Sales: $5148
+12/12/16 Total Sales: $10504
+12/12/16 Total Sales: $9209
+12/12/16 Total Sales: $11147
+12/12/16 Total Sales: $6438
+12/12/16 Total Sales: $8172
+12/12/16 Total Sales: $9984
+12/12/16 Total Sales: $12056
+
+
+Consumer 6 Statistics:
+Store 6 Total Spent: $99847
+12/12/16 Total Sales: $10110
+12/12/16 Total Sales: $6749
+12/12/16 Total Sales: $8967
+12/12/16 Total Sales: $5271
+12/12/16 Total Sales: $6320
+12/12/16 Total Sales: $5888
+12/12/16 Total Sales: $13086
+12/12/16 Total Sales: $7277
+12/12/16 Total Sales: $8250
+12/12/16 Total Sales: $3620
+12/12/16 Total Sales: $10253
+12/12/16 Total Sales: $14056
+
+
+Consumer 7 Statistics:
+Store 7 Total Spent: $121509
+12/12/16 Total Sales: $16278
+12/12/16 Total Sales: $10262
+12/12/16 Total Sales: $10322
+12/12/16 Total Sales: $8027
+12/12/16 Total Sales: $15204
+12/12/16 Total Sales: $12127
+12/12/16 Total Sales: $15239
+12/12/16 Total Sales: $4417
+12/12/16 Total Sales: $7225
+12/12/16 Total Sales: $3775
+12/12/16 Total Sales: $9079
+12/12/16 Total Sales: $9554
+
+
+Consumer 5 Statistics:
+Store 5 Total Spent: $119788
+12/12/16 Total Sales: $12219
+12/12/16 Total Sales: $12617
+12/12/16 Total Sales: $6072
+12/12/16 Total Sales: $5735
+12/12/16 Total Sales: $11914
+12/12/16 Total Sales: $8455
+12/12/16 Total Sales: $11918
+12/12/16 Total Sales: $13000
+12/12/16 Total Sales: $8485
+12/12/16 Total Sales: $9733
+12/12/16 Total Sales: $5924
+12/12/16 Total Sales: $13716
+
+
+Consumer 3 Statistics:
+Store 3 Total Spent: $107818
+12/12/16 Total Sales: $9327
+12/12/16 Total Sales: $11683
+12/12/16 Total Sales: $8161
+12/12/16 Total Sales: $5718
+12/12/16 Total Sales: $6084
+12/12/16 Total Sales: $10858
+12/12/16 Total Sales: $11064
+12/12/16 Total Sales: $6725
+12/12/16 Total Sales: $7594
+12/12/16 Total Sales: $9126
+12/12/16 Total Sales: $6598
+12/12/16 Total Sales: $14880
+
+Producers = 2
+Consumers = 10
+
+Consumer 8 Statistics:
+Store 8 Total Spent: $66677
+12/12/16 Total Sales: $5380
+12/12/16 Total Sales: $5753
+12/12/16 Total Sales: $4459
+12/12/16 Total Sales: $3779
+12/12/16 Total Sales: $4647
+12/12/16 Total Sales: $6316
+12/12/16 Total Sales: $9147
+12/12/16 Total Sales: $4242
+12/12/16 Total Sales: $2401
+12/12/16 Total Sales: $9271
+12/12/16 Total Sales: $6495
+12/12/16 Total Sales: $4787
+
+
+Consumer 7 Statistics:
+Store 7 Total Spent: $38726
+12/12/16 Total Sales: $3660
+12/12/16 Total Sales: $3679
+12/12/16 Total Sales: $3183
+12/12/16 Total Sales: $1363
+12/12/16 Total Sales: $1803
+12/12/16 Total Sales: $4900
+12/12/16 Total Sales: $3311
+12/12/16 Total Sales: $1572
+12/12/16 Total Sales: $4092
+12/12/16 Total Sales: $560
+12/12/16 Total Sales: $4622
+12/12/16 Total Sales: $5981
+
+
+Consumer 3 Statistics:
+Store 3 Total Spent: $55855
+12/12/16 Total Sales: $5057
+12/12/16 Total Sales: $3599
+12/12/16 Total Sales: $4661
+12/12/16 Total Sales: $5885
+12/12/16 Total Sales: $4804
+12/12/16 Total Sales: $2994
+12/12/16 Total Sales: $6241
+12/12/16 Total Sales: $4472
+12/12/16 Total Sales: $3614
+12/12/16 Total Sales: $1281
+12/12/16 Total Sales: $6701
+12/12/16 Total Sales: $6546
+
+
+Consumer 12 Statistics:
+Store 12 Total Spent: $50022
+12/12/16 Total Sales: $5063
+12/12/16 Total Sales: $7614
+12/12/16 Total Sales: $2604
+12/12/16 Total Sales: $3548
+12/12/16 Total Sales: $6152
+12/12/16 Total Sales: $5128
+12/12/16 Total Sales: $3059
+12/12/16 Total Sales: $1993
+12/12/16 Total Sales: $4499
+12/12/16 Total Sales: $3134
+12/12/16 Total Sales: $1016
+12/12/16 Total Sales: $6212
+
+
+Consumer 5 Statistics:
+Store 5 Total Spent: $49607
+12/12/16 Total Sales: $5333
+12/12/16 Total Sales: $2150
+12/12/16 Total Sales: $2626
+12/12/16 Total Sales: $3369
+12/12/16 Total Sales: $4051
+12/12/16 Total Sales: $2697
+12/12/16 Total Sales: $7597
+12/12/16 Total Sales: $2663
+12/12/16 Total Sales: $5035
+12/12/16 Total Sales: $776
+12/12/16 Total Sales: $5272
+12/12/16 Total Sales: $8038
+
+
+Consumer 4 Statistics:
+Store 4 Total Spent: $68303
+12/12/16 Total Sales: $7740
+12/12/16 Total Sales: $3803
+12/12/16 Total Sales: $3787
+12/12/16 Total Sales: $3447
+12/12/16 Total Sales: $3834
+12/12/16 Total Sales: $5680
+12/12/16 Total Sales: $7460
+12/12/16 Total Sales: $8739
+12/12/16 Total Sales: $1320
+12/12/16 Total Sales: $4202
+12/12/16 Total Sales: $7091
+ore 11 Total Spent: $70677
+12/12/16 Total Sales: $12547
+12/12/16 Total Sales: $11200
+12/12/16 Total Sales: $4557
+
+12/12/16 Total Sales: $4601
+12/12/16 Total Sales: $2778
+
+Consumer 10 Statistics:
+Store 10 Total Spent: $54309
+12/12/16 Total Sales: $4906
+12/12/16 Total Sales: $8934
+12/12/16 Total Sales: $7293
+12/12/16 Total Sales: $2518
+12/12/16 Total Sales: $4182
+12/12/16 Total Sales: $2921
+12/12/16 Total Sales: $3348
+12/12/16 Total Sales: $8853
+12/12/16 Total Sales: $4889
+
+/12/16 Total Sales: $4845
+12/12/16 Total Sales: $2240
+12/12/16 Total Sales: $3960
+12/12/16 Total Sales: $4255
+12/12/16 Total Sales: $923
+12/12/16 Total Sales: $7135
+
+
+Consumer 6 Statistics:
+Store 6 Total Spent: $48041
+12/12/16 Total Sales: $4261
+12/12/16 Total Sales: $5692
+12/12/16 Total Sales: $3028
+12/12/16 Total Sales: $1850
+12/12/16 Total Sales: $4828
+12/12/16 Total Sales: $1932
+12/12/16 Total Sales: $3215
+12/12/16 Total Sales: $6627
+12/12/16 Total Sales: $6004
+12/12/16 Total Sales: $5337
+12/12/16 Total Sales: $2791
+12/12/16 Total Sales: $2476
+
+
+Consumer 9 Statistics:
+Store 9 Total Spent: $51101
+12/12/16 Total Sales: $4154
+12/12/16 Total Sales: $4002
+12/12/16 Total Sales: $6171
+12/12/16 Total Sales: $5283
+12/12/16 Total Sales: $141
+12/12/16 Total Sales: $4426
+12/12/16 Total Sales: $6707
+12/12/16 Total Sales: $6284
+12/12/16 Total Sales: $2885
+12/12/16 Total Sales: $2689
+12/12/16 Total Sales: $1361
+12/12/16 Total Sales: $6998
+
+Producers = 5
+Consumers = 2
+
+Consumer 3 Statistics:
+Store 3 Total Spent: $238434
+12/12/16 Total Sales: $29346
+12/12/16 Total Sales: $18144
+12/12/16 Total Sales: $12179
+12/12/16 Total Sales: $14885
+12/12/16 Total Sales: $20779
+12/12/16 Total Sales: $39209
+12/12/16 Total Sales: $11981
+12/12/16 Total Sales: $10102
+12/12/16 Total Sales: $20679
+12/12/16 Total Sales: $16464
+12/12/16 Total Sales: $19871
+12/12/16 Total Sales: $24795
+
+
+Consumer 4 Statistics:
+Store 4 Total Spent: $307919
+12/12/16 Total Sales: $35119
+12/12/16 Total Sales: $29166
+12/12/16 Total Sales: $15306
+12/12/16 Total Sales: $22075
+12/12/16 Total Sales: $15879
+12/12/16 Total Sales: $24326
+12/12/16 Total Sales: $34364
+12/12/16 Total Sales: $31758
+12/12/16 Total Sales: $23536
+12/12/16 Total Sales: $12461
+12/12/16 Total Sales: $29359
+12/12/16 Total Sales: $34570
+
+Producers = 5
+Consumers = 5
+
+Consumer 6 Statistics:
+Store 6 Total Spent: $98960
+12/12/16 Total Sales: $14792
+12/12/16 Total Sales: $3705
+12/12/16 Total Sales: $5241
+12/12/16 Total Sales: $6564
+12/12/16 Total Sales: $7974
+12/12/16 Total Sales: $9223
+12/12/16 Total Sales: $6259
+12/12/16 Total Sales: $8935
+12/12/16 Total Sales: $11002
+12/12/16 Total Sales: $6325
+12/12/16 Total Sales: $10866
+12/12/16 Total Sales: $8074
+
+
+Consumer 4 Statistics:
+Store 4 Total Spent: $100895
+12/12/16 Total Sales: $11602
+12/12/16 Total Sales: $7073
+12/12/16 Total Sales: $8450
+12/12/16 Total Sales: $6034
+12/12/16 Total Sales: $8057
+12/12/16 Total Sales: $12615
+12/12/16 Total Sales: $7196
+12/12/16 Total Sales: $4857
+12/12/16 Total Sales: $5773
+12/12/16 Total Sales: $8490
+12/12/16 Total Sales: $9539
+12/12/16 Total Sales: $11209
+
+
+Consumer 7 Statistics:
+Store 7 Total Spent: $116631
+12/12/16 Total Sales: $16330
+12/12/16 Total Sales: $9415
+12/12/16 Total Sales: $2133
+12/12/16 Total Sales: $12501
+12/12/16 Total Sales: $9820
+12/12/16 Total Sales: $12723
+12/12/16 Total Sales: $14440
+12/12/16 Total Sales: $13396
+12/12/16 Total Sales: $8357
+12/12/16 Total Sales: $3919
+12/12/16 Total Sales: $5178
+12/12/16 Total Sales: $8419
+
+
+Consumer 3 Statistics:
+Store 3 Total Spent: $100623
+12/12/16 Total Sales: $11809
+12/12/16 Total Sales: $13579
+12/12/16 Total Sales: $6023
+12/12/16 Total Sales: $4865
+12/12/16 Total Sales: $6226
+12/12/16 Total Sales: $13812
+12/12/16 Total Sales: $6729
+12/12/16 Total Sales: $4395
+12/12/16 Total Sales: $9045
+12/12/16 Total Sales: $5183
+12/12/16 Total Sales: $8587
+12/12/16 Total Sales: $10370
+
+
+Consumer 5 Statistics:
+Store 5 Total Spent: $128323
+12/12/16 Total Sales: $9932
+12/12/16 Total Sales: $13538
+12/12/16 Total Sales: $5638
+12/12/16 Total Sales: $6996
+12/12/16 Total Sales: $3660
+12/12/16 Total Sales: $15162
+12/12/16 Total Sales: $11721
+12/12/16 Total Sales: $10277
+12/12/16 Total Sales: $10038
+12/12/16 Total Sales: $5008
+12/12/16 Total Sales: $15060
+12/12/16 Total Sales: $21293
+
+Producers = 5
+Consumers = 10
+
+Consumer 11 Statistics:
+Store 11 Total Spent: $46380
+12/12/16 Total Sales: $5720
+12/12/16 Total Sales: $712
+12/12/16 Total Sales: $1647
+12/12/16 Total Sales: $2983
+12/12/16 Total Sales: $4214
+12/12/16 Total Sales: $5186
+12/12/16 Total Sales: $3266
+12/12/16 Total Sales: $5037
+12/12/16 Total Sales: $9252
+12/12/16 Total Sales: $487
+12/12/16 Total Sales: $3614
+12/12/16 Total Sales: $4262
+
+
+Consumer 7 Statistics:
+Store 7 Total Spent: $55518
+12/12/16 Total Sales: $6131
+12/12/16 Total Sales: $5767
+12/12/16 Total Sales: $5378
+12/12/16 Total Sales: $5756
+12/12/16 Total Sales: $2674
+12/12/16 Total Sales: $4641
+12/12/16 Total Sales: $5351
+12/12/16 Total Sales: $3421
+12/12/16 Total Sales: $2139
+12/12/16 Total Sales: $4296
+12/12/16 Total Sales: $3312
+12/12/16 Total Sales: $6652
+
+
+Consumer 8 Statistics:
+Store 8 Total Spent: $51982
+12/12/16 Total Sales: $6625
+12/12/16 Total Sales: $7075
+12/12/16 Total Sales: $2932
+12/12/16 Total Sales: $6226
+12/12/16 Total Sales: $3205
+12/12/16 Total Sales: $5615
+12/12/16 Total Sales: $5879
+12/12/16 Total Sales: $4154
+12/12/16 Total Sales: $1484
+12/12/16 Total Sales: $1940
+12/12/16 Total Sales: $5322
+12/12/16 Total Sales: $1525
+
+
+Consumer 9 Statistics:
+Store 9 Total Spent: $62369
+12/12/16 Total Sales: $8073
+12/12/16 Total Sales: $3637
+12/12/16 Total Sales: $1729
+12/12/16 Total Sales: $2478
+12/12/16 Total Sales: $3309
+12/12/16 Total Sales: $9959
+12/12/16 Total Sales: $5959
+12/12/16 Total Sales: $3099
+12/12/16 Total Sales: $4928
+12/12/16 Total Sales: $8516
+12/12/16 Total Sales: $1338
+12/12/16 Total Sales: $9344
+
+
+Consumer 10 Statistics:
+Store 10 Total Spent: $49961
+12/12/16 Total Sales: $4308
+12/12/16 Total Sales: $5067
+12/12/16 Total Sales: $2132
+12/12/16 Total Sales: $3541
+12/12/16 Total Sales: $5020
+
+Consumer 4 Statistics:
+Store 4 Total Spent: $66155
+12/12/16 Total Sales: $5024
+12/12/16 Total Sales: $4000
+12/12/16 Total Sales: $4727
+12/12/16 Total Sales: $3742
+12/12/16 Total Sales: $684
+
+12/12/16 Total Sales: $4452
+12/12/16 Total Sales: $4897
+12/12/16 Total Sales: $6682
+12/12/16 Total Sales: $5413
+
+12/12/16 Total Sales: $6302
+12/12/16 Total Sales: $3902
+12/12/16 Total Sales: $4902
+12/12/16 Total Sales: $1938
+12/12/16 Total Sales: $7640
+12/12/16 Total Sales: $6977
+
+
+Consumer 6 Statistics:
+Store 6 Total Spent: $59734
+12/12/16 Total Sales: $4738
+12/12/16 Total Sales: $10526
+12/12/16 Total Sales: $4249
+12/12/16 Total Sales: $4212
+12/12/16 Total Sales: $3168
+12/12/16 Total Sales: $7710
+12/12/16 Total Sales: $2353
+12/12/16 Total Sales: $7777
+12/12/16 Total Sales: $281
+12/12/16 Total Sales: $331
+12/12/16 Total Sales: $8132
+12/12/16 Total Sales: $6257
+
+
+Consumer 5 Statistics:
+Store 5 Total Spent: $51295
+12/12/16 Total Sales: $8142
+12/12/16 Total Sales: $3774
+12/12/16 Total Sales: $2450
+12/12/16 Total Sales: $1830
+12/12/16 Total Sales: $3138
+12/12/16 Total Sales: $3895
+12/12/16 Total Sales: $6401
+12/12/16 Total Sales: $3969
+12/12/16 Total Sales: $2726
+12/12/16 Total Sales: $3095
+12/12/16 Total Sales: $6609
+12/12/16 Total Sales: $5266
+
+
+Consumer 3 Statistics:
+Store 3 Total Spent: $56088
+12/12/16 Total Sales: $6201
+12/12/16 Total Sales: $4062
+12/12/16 Total Sales: $2073
+12/12/16 Total Sales: $440
+12/12/16 Total Sales: $3002
+12/12/16 Total Sales: $8212
+12/12/16 Total Sales: $3526
+12/12/16 Total Sales: $1827
+12/12/16 Total Sales: $10875
+12/12/16 Total Sales: $1480
+12/12/16 Total Sales: $3645
+12/12/16 Total Sales: $10745
+
+
+Consumer 12 Statistics:
+Store 12 Total Spent: $48713
+12/12/16 Total Sales: $5716
+12/12/16 Total Sales: $1963
+12/12/16 Total Sales: $486
+12/12/16 Total Sales: $5042
+12/12/16 Total Sales: $4088
+12/12/16 Total Sales: $5415
+12/12/16 Total Sales: $2284
+12/12/16 Total Sales: $4674
+12/12/16 Total Sales: $3886
+12/12/16 Total Sales: $6158
+12/12/16 Total Sales: $4721
+12/12/16 Total Sales: $4280
+
+Producers = 10
+Consumers = 2
+
+Consumer 3 Statistics:
+Store 3 Total Spent: $240124
+12/12/16 Total Sales: $33025
+12/12/16 Total Sales: $14961
+12/12/16 Total Sales: $22794
+12/12/16 Total Sales: $11506
+12/12/16 Total Sales: $7349
+12/12/16 Total Sales: $21429
+12/12/16 Total Sales: $16477
+12/12/16 Total Sales: $24991
+12/12/16 Total Sales: $21217
+12/12/16 Total Sales: $19817
+12/12/16 Total Sales: $19240
+12/12/16 Total Sales: $27318
+
+
+Consumer 4 Statistics:
+Store 4 Total Spent: $291492
+12/12/16 Total Sales: $25615
+12/12/16 Total Sales: $11299
+12/12/16 Total Sales: $17796
+12/12/16 Total Sales: $7394
+12/12/16 Total Sales: $10047
+12/12/16 Total Sales: $21681
+12/12/16 Total Sales: $36303
+12/12/16 Total Sales: $25369
+12/12/16 Total Sales: $39233
+12/12/16 Total Sales: $24933
+12/12/16 Total Sales: $36160
+12/12/16 Total Sales: $35662
+
+Producers = 10
+Consumers = 5
+
+Consumer 3 Statistics:
+Store 3 Total Spent: $129159
+12/12/16 Total Sales: $14570
+12/12/16 Total Sales: $6594
+12/12/16 Total Sales: $9123
+12/12/16 Total Sales: $4750
+12/12/16 Total Sales: $1916
+12/12/16 Total Sales: $12481
+12/12/16 Total Sales: $19268
+12/12/16 Total Sales: $16433
+12/12/16 Total Sales: $7672
+12/12/16 Total Sales: $4163
+12/12/16 Total Sales: $15791
+12/12/16 Total Sales: $16398
+
+
+Consumer 7 Statistics:
+Store 7 Total Spent: $102835
+12/12/16 Total Sales: $10328
+12/12/16 Total Sales: $4045
+12/12/16 Total Sales: $13023
+12/12/16 Total Sales: $4234
+12/12/16 Total Sales: $1084
+12/12/16 Total Sales: $11734
+12/12/16 Total Sales: $8248
+12/12/16 Total Sales: $9128
+12/12/16 Total Sales: $10015
+12/12/16 Total Sales: $14053
+12/12/16 Total Sales: $8599
+12/12/16 Total Sales: $8344
+
+
+Consumer 4 Statistics:
+Store 4 Total Spent: $105980
+12/12/16 Total Sales: $7746
+12/12/16 Total Sales: $5448
+12/12/16 Total Sales: $7277
+12/12/16 Total Sales: $3253
+12/12/16 Total Sales: $5221
+12/12/16 Total Sales: $4400
+12/12/16 Total Sales: $9286
+12/12/16 Total Sales: $14312
+12/12/16 Total Sales: $13486
+12/12/16 Total Sales: $8277
+12/12/16 Total Sales: $12902
+12/12/16 Total Sales: $14372
+
+
+Consumer 5 Statistics:
+Store 5 Total Spent: $102020
+12/12/16 Total Sales: $11556
+12/12/16 Total Sales: $6487
+12/12/16 Total Sales: $6705
+12/12/16 Total Sales: $2781
+12/12/16 Total Sales: $7269
+12/12/16 Total Sales: $8033
+12/12/16 Total Sales: $9053
+12/12/16 Total Sales: $6700
+12/12/16 Total Sales: $14386
+12/12/16 Total Sales: $11784
+
+Consumer 6 Statistics:
+Store 6 Total Spent: $91448
+12/12/16 Total Sales: $8210
+
+/12/16 Total Sales: $14440
+12/12/16 Total Sales: $3686
+12/12/16 Total Sales: $4462
+12/12/16 Total Sales: $3882
+12/12/16 Total Sales: $1732
+12/12/16 Total Sales: $6462
+12/12/16 Total Sales: $6925
+12/12/16 Total Sales: $3787
+12/12/16 Total Sales: $14891
+12/12/16 Total Sales: $6473
+12/12/16 Total Sales: $9052
+12/12/16 Total Sales: $15656
+
+Producers = 10
+Consumers = 10
+
+Consumer 5 Statistics:
+Store 5 Total Spent: $42524
+12/12/16 Total Sales: $3142
+12/12/16 Total Sales: $3601
+12/12/16 Total Sales: $3738
+12/12/16 Total Sales: $2521
+12/12/16 Total Sales: $1395
+12/12/16 Total Sales: $2520
+12/12/16 Total Sales: $5259
+12/12/16 Total Sales: $2485
+12/12/16 Total Sales: $8857
+12/12/16 Total Sales: $0
+12/12/16 Total Sales: $1172
+12/12/16 Total Sales: $7834
+
+
+Consumer 8 Statistics:
+Store 8 Total Spent: $57659
+12/12/16 Total Sales: $8677
+12/12/16 Total Sales: $4872
+12/12/16 Total Sales: $3512
+12/12/16 Total Sales: $1342
+12/12/16 Total Sales: $1687
+12/12/16 Total Sales: $7281
+12/12/16 Total Sales: $2243
+12/12/16 Total Sales: $2984
+12/12/16 Total Sales: $2250
+12/12/16 Total Sales: $13676
+12/12/16 Total Sales: $6036
+12/12/16 Total Sales: $3099
+
+
+Consumer 4 Statistics:
+Store 4 Total Spent: $40884
+12/12/16 Total Sales: $3299
+12/12/16 Total Sales: $1011
+12/12/16 Total Sales: $2956
+12/12/16 Total Sales: $3880
+12/12/16 Total Sales: $2824
+12/12/16 Total Sales: $1446
+12/12/16 Total Sales: $2347
+12/12/16 Total Sales: $1588
+12/12/16 Total Sales: $8674
+12/12/16 Total Sales: $1454
+12/12/16 Total Sales: $2274
+12/12/16 Total Sales: $9131
+
+
+Consumer 12 Statistics:
+Store 12 Total Spent: $55348
+12/12/16 Total Sales: $9869
+12/12/16 Total Sales: $2430
+12/12/16 Total Sales: $8899
+12/12/16 Total Sales: $900
+12/12/16 Total Sales: $418
+12/12/16 Total Sales: $3270
+12/12/16 Total Sales: $4239
+12/12/16 Total Sales: $4037
+12/12/16 Total Sales: $5310
+12/12/16 Total Sales: $3446
+12/12/16 Total Sales: $7531
+12/12/16 Total Sales: $4999
+
+
+Consumer 3 Statistics:
+Store 3 Total Spent: $52690
+12/12/16 Total Sales: $2715
+12/12/16 Total Sales: $5154
+12/12/16 Total Sales: $4636
+12/12/16 Total Sales: $2340
+12/12/16 Total Sales: $1371
+12/12/16 Total Sales: $4456
+12/12/16 Total Sales: $3004
+12/12/16 Total Sales: $6534
+12/12/16 Total Sales: $4102
+12/12/16 Total Sales: $5076
+12/12/16 Total Sales: $10689
+12/12/16 Total Sales: $2613
+
+
+Consumer 6 Statistics:
+Store 6 Total Spent: $74117
+12/12/16 Total Sales: $7669
+12/12/16 Total Sales: $2255
+12/12/16 Total Sales: $2733
+12/12/16 Total Sales: $872
+12/12/16 Total Sales: $3417
+12/12/16 Total Sales: $4492
+12/12/16 Total Sales: $7431
+12/12/16 Total Sales: $6477
+12/12/16 Total Sales: $8074
+12/12/16 Total Sales: $4589
+12/12/16 Total Sales: $7903
+12/12/16 Total Sales: $18205
+
+
+Consumer 11 Statistics:
+Store 11 Total Spent: $53430
+12/12/16 Total Sales: $7553
+12/12/16 Total Sales: $1910
+12/12/16 Total Sales: $3214
+12/12/16 Total Sales: $3514
+12/12/16 Total Sales: $3528
+12/12/16 Total Sales: $1089
+12/12/16 Total Sales: $7652
+12/12/16 Total Sales: $8651
+12/12/16 Total Sales: $10779
+12/12/16 Total Sales: $754
+12/12/16 Total Sales: $2135
+12/12/16 Total Sales: $2651
+
+
+Consumer 9 Statistics:
+Store 9 Total Spent: $54411
+12/12/16 Total Sales: $8397
+12/12/16 Total Sales: $2907
+12/12/16 Total Sales: $2322
+12/12/16 Total Sales: $667
+12/12/16 Total Sales: $892
+12/12/16 Total Sales: $3734
+12/12/16 Total Sales: $11107
+12/12/16 Total Sales: $4150
+12/12/16 Total Sales: $3310
+12/12/16 Total Sales: $4003
+12/12/16 Total Sales: $7594
+12/12/16 Total Sales: $5328
+
+
+Consumer 7 Statistics:
+Store 7 Total Spent: $58322
+12/12/16 Total Sales: $1980
+12/12/16 Total Sales: $0
+12/12/16 Total Sales: $4144
+12/12/16 Total Sales: $584
+12/12/16 Total Sales: $999
+12/12/16 Total Sales: $7783
+12/12/16 Total Sales: $4919
+12/12/16 Total Sales: $11042
+12/12/16 Total Sales: $4339
+ore 10 Total Spent: $42057
+12/12/16 Total Sales: $5339
+12/12/16 Total Sales: $2120
+12/12/16 Total Sales: $7279
+12/12/16 Total Sales: $5718
+12/12/16 Total Sales: $2280
+
+/12/16 Total Sales: $691
+12/12/16 Total Sales: $7039
+12/12/16 Total Sales: $4579
+12/12/16 Total Sales: $2412
+12/12/16 Total Sales: $4755
+12/12/16 Total Sales: $2217
+12/12/16 Total Sales: $2787
+12/12/16 Total Sales: $3402
+

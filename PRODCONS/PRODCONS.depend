@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1680910636 source:z:\prodcons\main.cpp
+	<iostream>
+	<thread>
+	<vector>
+	<mutex>
+	<cstdlib>
+	<ctime>
+	<chrono>
+	<fstream>
+
